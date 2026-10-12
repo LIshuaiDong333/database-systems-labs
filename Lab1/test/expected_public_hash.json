@@ -1,0 +1,107 @@
+{
+  "_meta": {
+    "mode": "hash",
+    "generated_at": "2026-03-30T11:20:59"
+  },
+  "Q1": {
+    "columns": [
+      "customer_id",
+      "customer_name",
+      "address",
+      "district",
+      "city"
+    ],
+    "rowcount": 31,
+    "digest": "9a3a3973cdba3ec62aa901d8140a332e3bd49c531c8a6e088c04311373b1e0f3"
+  },
+  "Q2": {
+    "columns": [
+      "title"
+    ],
+    "rowcount": 7,
+    "digest": "05411393daeeb5a7dfb9515aef3004448cc4849d714987093f1cd82ec4a81a99"
+  },
+  "Q3": {
+    "columns": [
+      "first_name",
+      "last_name",
+      "total_amount"
+    ],
+    "rowcount": 34,
+    "digest": "bfa05fd25a5d535102ffd77613c83bf10c43dfc534a9466e0ac7736a1dd90e5e"
+  },
+  "Q4": {
+    "columns": [
+      "film_id",
+      "title",
+      "total_amount"
+    ],
+    "rowcount": 1,
+    "digest": "5ac1885d3a4a0c7ca09436d0369e97b849101a4f7ceda20dd728673e512977ce"
+  },
+  "Q5": {
+    "columns": [
+      "actor_name",
+      "film_count"
+    ],
+    "rowcount": 5,
+    "digest": "6c4752960596a0b677e9c6aa5bb4bdc0f8669adaa77c2ce877b44b2fb595cccc"
+  },
+  "Q6": {
+    "columns": [
+      "customer_name"
+    ],
+    "rowcount": 567,
+    "digest": "9825dc4d8bab8895abbdb67f878f147b3132830cf113cf2e8404f1b151240ccb"
+  },
+  "Q7": {
+    "columns": [
+      "actor_name"
+    ],
+    "rowcount": 0,
+    "digest": "cf1648b6726c08f4393b541c1f07086803c7c83d9f82d42d45a338b26061451b"
+  },
+  "Q8": {
+    "columns": [
+      "category_id",
+      "name",
+      "film_count"
+    ],
+    "rowcount": 16,
+    "digest": "09b3a401ca5ae99a7d851c1a1b14a0b501783a4000048efbdc07493bf98fe97c"
+  },
+  "Q9": {
+    "columns": [
+      "title",
+      "renter_cnt"
+    ],
+    "rowcount": 1,
+    "digest": "9408577ae4b5fe8efb9f6272003341bce1aafbf9b837b324d1e74c552bc91afe"
+  },
+  "Q10": {
+    "columns": [
+      "first_name",
+      "last_name",
+      "duration_sec"
+    ],
+    "rowcount": 6,
+    "digest": "d2384da85caedcca925436e68d2dc6a36318a39217ba1ce45ee68835b2714dc3"
+  },
+  "Q14": {
+    "columns": [
+      "film_id",
+      "title",
+      "renter_cnt"
+    ],
+    "rowcount": 12,
+    "digest": "b334631e2c5406bf25e5a2443ad28d9b4641fe1f1ffadb5b2c94ff86a9af189c"
+  },
+  "Q15": {
+    "columns": [
+      "customer_id",
+      "customer_name"
+    ],
+    "rowcount": 5,
+    "digest": "6b4eb7e316bb7b2b0ab6e84734c9043ffa7c91dd856e144b1f80297c5b9161f7"
+  }
+}

@@ -1,0 +1,1 @@
+SELECT * FROM v_open_rentals LIMIT 10;

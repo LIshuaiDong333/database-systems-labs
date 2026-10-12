@@ -1,0 +1,1 @@
+CREATE USER 'sakila_u'@'localhost' IDENTIFIED BY 'CHANGE_ME';
